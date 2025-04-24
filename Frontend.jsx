@@ -1,4 +1,4 @@
-// App.jsx
+
 import { useEffect, useState } from 'react';
 
 export default function App() {
